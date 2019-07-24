@@ -1,0 +1,1 @@
+include ':app', ':aidl_comm', ':aidl_client', ':aidl_service'
